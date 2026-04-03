@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @alimurtaza8
-- 👀 I’m interested in BlockChain Development, Generative Ai , Data Science, Cloud Architecture, Full stack Development.
-- 🌱 I’m currently learning BlockChain development, python for generative ai, Agentic AI, Full Stack development.
-- 💞️ I’m looking to collaborate on  blockchain backend development and generative AI projects. As a Software Engineering student, I bring a strong foundation in software development and am eager to contribute to innovative projects in the blockchain and AI space. Open to teamwork and learning opportunities!
+👋 Hi, I’m @alimurtaza8  
+Software Engineer | 2+ Years Experience in Production Systems
+
+Specializing in Full Stack Development, AI Development, Agentic AI Development, and Full Stack Blockchain Development.
+Passionate about Blockchain, Generative AI, Data Science, Cloud Architecture, and building scalable real-world products.
+Open to collaborating on open-source, AI, and blockchain projects.
 - 📫 How to reach me
 -     🐦 Twitter: https://twitter.com/AliMurt90850271
 -     💼 LinkedIn: https://www.linkedin.com/in/ali-murtaza-361110246/
